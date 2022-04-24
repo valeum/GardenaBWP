@@ -5,8 +5,9 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 
 ## Hardware
 
-## Debug
-UART
-GND < 1 - 2 > TX
---- < 3 - 4 > ---
---- < 5 - 6 > ---
+## Debug - UART
+| Description | Pin | Pin | Description |
+| --- | --- | --- | --- |
+| GND | 1 | 2 | TX |
+| - | 3 | 4 | - |
+| - | 5 | 6 | - |
