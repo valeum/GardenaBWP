@@ -25,6 +25,11 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 
 ### Data
 | First Byte | ? | Akku - V | Akku - A | Akku - Temp | Error | Batt. Type. Rev | Software Ver. | Temp | Battery Type | Auto Incremental | Checksum | Last Byte |
+
+
+
+
+| FB | ? | U | I | TA | Err | SMO | BTR | SVN | TS | BT | AI | CS | LB |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | FB | ? | U | I | TA | Err | SMO | BTR | SVN | TS | BT | AI | CS | LB |
 | 0xFE | 2 | 20.46 | 4.08 | 25.4 | 0 | 23 | 047k5 | 3.1 | 24.8 | 3_1 | 2100 | 3B | FD |
