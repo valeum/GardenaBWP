@@ -28,6 +28,8 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 ![OLS](Documentation/2022-04-24_la-2.png)
 ![OLS](Documentation/2022-04-24_la-3.png)
 
+Baurate: 9600
+
 ### Data
 | First Byte | ? | Batt. V | Batt. A | Batt. Temp | Error | SMO | Batt. Type. Rev | Software Ver. | Temp | Batt. Type | Auto Incremental | Checksum | Last Byte |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
