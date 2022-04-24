@@ -15,13 +15,18 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 | Minus (-) | 4 |
 
 
-## Debug - UART
+## Debug
+### UART-Port
 | Description | Pin | Pin | Description |
 | --- | --- | --- | --- |
 | GND | 1 | 2 | TX |
 | - | 3 | 4 | - |
 | - | 5 | 6 | - |
 
+### Data
+| FB | ? | U | I | TA | Err | SMO | BTR | SVN | TS | BT | AI | CS | LB |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
+| 0xFE | 2 | 20.46 | 4.08 | 25.4 | 0 | 23 | 047k5 | 3.1 | 24.8 | 3_1 | 2100 | 3B | FD |
 
 # Notes
 ## Gardena
