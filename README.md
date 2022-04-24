@@ -22,3 +22,14 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 | - | 3 | 4 | - |
 | - | 5 | 6 | - |
 
+
+# Notes
+## Gardena
+- https://gitlab.com/nbrgmn/wall-e-esp8266-automower/-/tree/develop
+
+## Logic Analyzer
+- https://github.com/gillham/logic_analyzer
+- https://github.com/jawi/ols
+
+## Baudrate Finder
+- https://github.com/Sjord/autobaud
