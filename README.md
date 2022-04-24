@@ -24,7 +24,9 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 | - | 5 | 6 | - |
 
 ### Logic Analyzer
-![OLS - 14s](Documentation/2022-04-24_la-1.png)
+![OLS](Documentation/2022-04-24_la-1.png)
+![OLS](Documentation/2022-04-24_la-1.png)
+![OLS](Documentation/2022-04-24_la-1.png)
 
 ### Data
 | First Byte | ? | Batt. V | Batt. A | Batt. Temp | Error | SMO | Batt. Type. Rev | Software Ver. | Temp | Batt. Type | Auto Incremental | Checksum | Last Byte |
