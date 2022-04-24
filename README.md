@@ -1,5 +1,5 @@
 # GardenaBatteryWaterPump
-Gardena Battery Submersible Pump / Battery Rain Water Tank Pump 2000/2
+Battery Rain Water Tank Pump 2000/2 18V P4A
 ## Documents
 Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 
