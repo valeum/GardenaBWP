@@ -91,3 +91,6 @@ FE323B553A32302E34303B493A30302E30303B54413A3032352E343B4572723A30303B534D4F3A30
 
 ## Checksum Calculator
 - https://www.scadacore.com/tools/programming-calculators/online-checksum-calculator/
+
+## Battery Hack Sheet
+- https://docs.google.com/spreadsheets/d/1y2jpoUwTOCbt6W3V7BTANON0qFRX7MPgF3T8NVuv8oo/edit#gid=698376076
