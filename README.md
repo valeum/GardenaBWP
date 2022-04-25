@@ -32,7 +32,7 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 
 Baudrate: 9600
 
-#### Data
+#### Revived Data
 | First Byte | ? | Batt. V | Batt. A | Batt. Temp | Error | SMO | Batt. Type. Rev | Software Ver. | Temp | Batt. Type | Auto Incremental | Checksum | Last Byte |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | FB | ? | U | I | TA | Err | SMO | BTR | SVN | TS | BT | AI | CS | LB |
