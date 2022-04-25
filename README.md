@@ -54,8 +54,7 @@ Baudrate: 9600
 | FB | ? | U | I | TA | Err | SMO | BTR | SVN | TS | BT | AI | CS | LB |
 | 0xFE | 2 | 20.46 | 4.08 | 25.4 | 0 | 23 | 047k5 | 3.1 | 24.8 | 3_1 | 2100 | 0x3B | 0xFD |
 
-**Checksume**
-To create the checksum, start reading after the first byte, end before the checksum byte and generate the checksum using the CheckSum8 Xor algorithm.
+**Checksume:** To create the checksum, start reading after the first byte, end before the checksum byte and generate the checksum using the CheckSum8 Xor algorithm.
 
 # Notes
 ## Gardena
