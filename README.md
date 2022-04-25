@@ -45,9 +45,9 @@ Baudrate: 9600
 - https://www.roboter-forum.com/index.php?thread/12310-wlan-anbindung-gardena-r40li-hausautomatisierung-fernbedienung-etc/&pageNo=2
 - https://www.youtube.com/watch?v=DqCoxzLTGXg&t=567s
 
-## Logic Analyzer
+## Arduino Logic Analyzer
 - https://github.com/gillham/logic_analyzer
 - https://github.com/jawi/ols
 
-## Baudrate Finder
+## Arduino Baudrate Finder
 - https://github.com/Sjord/autobaud
