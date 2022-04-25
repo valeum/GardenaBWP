@@ -65,7 +65,7 @@ FE323B553A32302E34303B493A30302E30303B54413A3032352E343B4572723A30303B534D4F3A30
 | 0xFE | 2 | 20.40 | 00.00 | 025.4 | 00 | 023 | 047k5 | 03.10 | 025.8 | 3_1 | 000041102 | 0x13 | 0xFD |
 | 0xFE | 2 | 20.40 | 00.00 | 025.4 | 00 | 023 | 047k5 | 03.10 | 025.8 | 3_1 | 000041103 | 0x12 | 0xFD |
 
-**Checksume:** To create the checksum, start reading after the first byte, end before the checksum byte and generate the checksum using the CheckSum8 Xor algorithm.
+**Checksume:** To create the checksum, start reading after the first byte, end before the checksum byte and calculate the checksum using the CheckSum8 Xor algorithm.
 
 ![Checksum](Documentation/2022-04-25_online-checksum-generator.png)
 
