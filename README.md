@@ -1,12 +1,12 @@
 # GardenaBWP
 
-**Gardena Battery Rain Water Tank Pump 2000/2 18V P4A - Article No. 14602**
+**Gardena Battery Rain Water Tank Pump 2000/2 18V P4A** - Article No. 14602
 - Website: https://www.gardena.com/int/products/lawn-care/grass-trimmers/system-battery-p4a-pba-18v-45/970508501/
 - Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 
 ![Gardena Battery Rain Water Tank Pump 2000/2](Documentation/2022-04-25_Gardena-2000-2.png)
 
-**Gardena System Battery P4A PBA 18V/45 - Article No. 14903-20**
+**Gardena System Battery P4A PBA 18V/45** - Article No. 14903-20
 - Website: https://www.gardena.com/int/products/watering/pump/battery-rain-water-tank-pump-2000-2-li-18-ready-to-use-set/970511001/
 - Manuel: https://www.gardena.com/tdrdownload//pub000081354/doc000149497
 
