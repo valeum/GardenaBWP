@@ -37,8 +37,8 @@ HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 #### UART-Port
 | Description | Pin | Pin | Description |
 | --- | --- | --- | --- |
-| GND | 1 | 2 | TX |
-| - | 3 | 4 | - |
+| TX | 1 | 2 | GND |
+| RX | 3 | 4 | - |
 | - | 5 | 6 | - |
 
 #### Logic Analyzer
