@@ -56,6 +56,8 @@ Baudrate: 9600
 
 **Checksume:** To create the checksum, start reading after the first byte, end before the checksum byte and generate the checksum using the CheckSum8 Xor algorithm.
 
+![Checksum](Documentation/2022-04-25_online-checksum-generator.png)
+
 # Notes
 ## Gardena
 - https://gitlab.com/nbrgmn/wall-e-esp8266-automower/-/tree/develop
