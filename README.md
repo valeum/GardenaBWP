@@ -18,9 +18,10 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 ### Control Panel
 ![Schematic](Documentation/2022-04-25_Schematic.jpg)
 
-| HW: | 3.1.4A3 |
-| SW: | 3.1.0 |
-| - | 20210819 |
+Label:
+- HW: 3.1.4A3
+- SW: 3.1.0
+- 20210819
 
 #### UART-Port
 | Description | Pin | Pin | Description |
