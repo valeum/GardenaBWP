@@ -16,14 +16,14 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 
 
 ## Debug
+![Schematic](Documentation/2022-04-25_Schematic.jpg)
+
 ### UART-Port
 | Description | Pin | Pin | Description |
 | --- | --- | --- | --- |
 | GND | 1 | 2 | TX |
 | - | 3 | 4 | - |
 | - | 5 | 6 | - |
-
-![Schematic](Documentation/2022-04-25_Schematic.jpg)
 
 
 ### Logic Analyzer
