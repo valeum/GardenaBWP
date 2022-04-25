@@ -5,9 +5,8 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 
 ![Gardena Battery Rain Water Tank Pump 2000/2](Documentation/2022-04-25_Gardena-2000-2.png)
 
-## Documents
+## Reverse Engineering
 
-## Hardware
 ### Akku
 System Battery P4A PBA 18V/45 - Article No. 14903-20
 
