@@ -20,6 +20,7 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 
 ### Control Panel
 ![Control Panel Back](Documentation/2022-04-25_Control-Panel_Back.png)
+
 ![Schematic](Documentation/2022-04-25_Schematic_v1.png)
 
 Label Description:
