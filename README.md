@@ -68,3 +68,6 @@ To create the checksum, start reading after the first byte, end before the check
 
 ## Arduino Baudrate Finder
 - https://github.com/Sjord/autobaud
+
+## Checksum Generator
+- https://www.scadacore.com/tools/programming-calculators/online-checksum-calculator/
