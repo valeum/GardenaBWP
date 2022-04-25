@@ -23,6 +23,9 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 | - | 3 | 4 | - |
 | - | 5 | 6 | - |
 
+![Schematic](Documentation/2022-04-25_Schematic.jpg)
+
+
 ### Logic Analyzer
 ![OLS](Documentation/2022-04-24_la-1.png)
 ![OLS](Documentation/2022-04-24_la-2.png)
