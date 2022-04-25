@@ -58,7 +58,7 @@ FE323B553A32302E34303B493A30302E30303B54413A3032352E343B4572723A30303B534D4F3A30
 
 | First Byte | ? | Batt. V | Batt. A | Batt. Temp | Error | SMO | Batt. Type. Rev | Software Ver. | Temp | Batt. Type | Auto Incremental | Checksum | Last Byte |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
-| FB | ? | U | I | TA | Err | SMO | BTR | SVN | TS | BT | AI | CS | LB |
+| FB |  | U | I | TA | Err | SMO | BTR | SVN | TS | BT | AI | CS | LB |
 | 0xFE | 2 | 00.00 | 00.00 | 000.0 | 00 | 023 | 000k0 | 03.10 | 000.0 | 0_0 | 000002100 | 0x18 | 0xFD |
 | 0xFE | 2 | 20.41 | 00.00 | 025.4 | 00 | 023 | 047k5 | 03.10 | 025.7 | 3_1 | 000002101 | 0x19 | 0xFD |
 | 0xFE | 2 | 20.40 | 00.00 | 025.4 | 00 | 023 | 047k5 | 03.10 | 025.8 | 3_1 | 000041102 | 0x13 | 0xFD |
