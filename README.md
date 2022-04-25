@@ -82,5 +82,5 @@ FE323B553A32302E34303B493A30302E30303B54413A3032352E343B4572723A30303B534D4F3A30
 ## Arduino Baudrate Finder
 - https://github.com/Sjord/autobaud
 
-## Checksum Generator
+## Checksum Calculator
 - https://www.scadacore.com/tools/programming-calculators/online-checksum-calculator/
