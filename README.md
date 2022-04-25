@@ -15,25 +15,24 @@ Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 | Minus (-) | 4 |
 
 
-## Debug
+### Control Panel
 ![Schematic](Documentation/2022-04-25_Schematic.jpg)
 
-### UART-Port
+#### UART-Port
 | Description | Pin | Pin | Description |
 | --- | --- | --- | --- |
 | GND | 1 | 2 | TX |
 | - | 3 | 4 | - |
 | - | 5 | 6 | - |
 
-
-### Logic Analyzer
+#### Logic Analyzer
 ![OLS](Documentation/2022-04-24_la-1.png)
 ![OLS](Documentation/2022-04-24_la-2.png)
 ![OLS](Documentation/2022-04-24_la-3.png)
 
 Baudrate: 9600
 
-### Data
+#### Data
 | First Byte | ? | Batt. V | Batt. A | Batt. Temp | Error | SMO | Batt. Type. Rev | Software Ver. | Temp | Batt. Type | Auto Incremental | Checksum | Last Byte |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | FB | ? | U | I | TA | Err | SMO | BTR | SVN | TS | BT | AI | CS | LB |
