@@ -1,5 +1,8 @@
 # GardenaBWP
 Gardena Battery Rain Water Tank Pump 2000/2 18V P4A - Art. 14602
+![Gardena Battery Rain Water Tank Pump 2000/2](Documentation/2022-04-25_Gardena-2000-2.png)
+
+
 ## Documents
 Manuel: https://www.gardena.com/tdrdownload//pub000081324/doc000149307
 
