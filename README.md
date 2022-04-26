@@ -77,20 +77,20 @@ FE323B553A32302E34303B493A30302E30303B54413A3032352E343B4572723A30303B534D4F3A30
 | 0xFE | 2 | 20.46 | 00.00 | -020.0 | 07 | 023 | 999k9 | 03.10 | 024.6 | 0_0 | 000031102 | - | 0xFD |
 
 # Notes
-## Gardena
+**Gardena**
 - https://gitlab.com/nbrgmn/wall-e-esp8266-automower/-/tree/develop
 - https://www.roboter-forum.com/index.php?thread/12310-wlan-anbindung-gardena-r40li-hausautomatisierung-fernbedienung-etc/&pageNo=2
 - https://www.youtube.com/watch?v=DqCoxzLTGXg&t=567s
 
-## Arduino Logic Analyzer
+**Arduino Logic Analyzer**
 - https://github.com/gillham/logic_analyzer
 - https://github.com/jawi/ols
 
-## Arduino Baudrate Finder
+**Arduino Baudrate Finder**
 - https://github.com/Sjord/autobaud
 
-## Checksum Calculator
+**Checksum Calculator**
 - https://www.scadacore.com/tools/programming-calculators/online-checksum-calculator/
 
-## Battery Hack Sheet
+**Battery Hack Sheet**
 - https://docs.google.com/spreadsheets/d/1y2jpoUwTOCbt6W3V7BTANON0qFRX7MPgF3T8NVuv8oo/edit#gid=698376076
