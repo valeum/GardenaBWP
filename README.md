@@ -69,7 +69,7 @@ FE323B553A32302E34303B493A30302E30303B54413A3032352E343B4572723A30303B534D4F3A30
 
 ![Checksum](Documentation/2022-04-25_online-checksum-generator.png)
 
-**Hex and ASCII without BATTERY DATA CABLE**
+**HEX and ASCII without BATTERY DATA CABLE**
 | FB |  | U | I | TA | Err | SMO | BTR | SVN | TS | BT | AI | CS | LB |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | 
 | 0xFE | 2 | 00.00 | 00.00 | 000.0 | 00 | 023 | 000k0 | 03.10 | 000.0 | 0_0 | 000002100 | 0x18 | 0xFD |
