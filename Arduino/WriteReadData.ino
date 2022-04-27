@@ -1,13 +1,11 @@
 #include <SoftwareSerial.h>
 
-// Arduino UNO (RX to TX of Gardena device)
 const int PIN_RX = 2;
 const int PIN_TX = 3;
 
 //byte sendData[] = {0x00 }; // return 0xFF, loop
 //byte sendData[] = {0x01 }; // return 0xFF, loop
 //byte sendData[] = {0x02 }; // return 0xFF, loop
-
 
 //byte sendData[] = {0xE0 }; // return loop
 //byte sendData[] = {0xE1 }; // return loop
@@ -87,12 +85,4 @@ void loop()
     
     incomingByte = Serial.read();
   }
-}
-
-byte calculateCRC(byte ar[], byte s){
-  byte rtn = 0;;
-  for(byte i =0; i < s; i++){
-    rtn ^= ar[i]; 
-  }
-  return rtn;
 }
