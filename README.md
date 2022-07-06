@@ -46,6 +46,7 @@ HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 | TX | 1 | 2 | GND |
 | VCC | 3 | 4 | DAT |
 | RST | 5 | 6 | CLK |
+
 *Update 2022/07/06
 
 #### Logic Analyzer
