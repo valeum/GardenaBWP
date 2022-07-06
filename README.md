@@ -41,6 +41,13 @@ HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 | RX | 3 | 4 | - |
 | - | 5 | 6 | - |
 
+| Description | Pin | Pin | Description |
+| --- | --- | --- | --- |
+| TX | 1 | 2 | GND |
+| VCC | 3 | 4 | DAT |
+| RST | 5 | 6 | CLK |
+*Update 2022/07/06
+
 #### Logic Analyzer
 ![OLS](Documentation/2022-04-24_la-1.png)
 ![OLS](Documentation/2022-04-24_la-2.png)
