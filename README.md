@@ -16,7 +16,6 @@
 
 ### Akku
 
-
 | Description | Pin |
 | --- | --- |
 | Plus (+) | 1 |
@@ -31,8 +30,10 @@
 ![Schematic](Documentation/2022-04-25_Schematic_v1.png)
 
 Label Description:
-
 HW: 3.1.4A3 | SW: 3.1.0 | 20210819
+
+I was now able to detach the plastic from the board.
+It has an imprint on the circuit board with the following Inscription and Pinout:
 www.leli.asia
 E123995
 LKS-181P_V3.1.0_20200806
