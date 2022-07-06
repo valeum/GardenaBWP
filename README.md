@@ -35,11 +35,11 @@ Label Description:
 HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 
 #### UART or ICSP-Port
-~~| Description | Pin | Pin | Description |
+| Description | Pin | Pin | Description |
 | --- | --- | --- | --- |
 | TX | 1 | 2 | GND |
-| RX | 3 | 4 | - |
-| - | 5 | 6 | - |~~
+| ~~RX~~ | 3 | 4 | - |
+| - | 5 | 6 | - |
 
 | Description | Pin | Pin | Description |
 | --- | --- | --- | --- |
