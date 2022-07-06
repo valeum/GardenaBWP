@@ -20,8 +20,8 @@
 | Description | Pin |
 | --- | --- |
 | Plus (+) | 1 |
-| Data? | 2 |
-| Data? | 3 |
+| ~~Data?~~ NTC or ID | 2 |
+| ~~Data?~~ NTC or ID | 3 |
 | Minus (-) | 4 |
 
 
