@@ -33,6 +33,9 @@
 Label Description:
 
 HW: 3.1.4A3 | SW: 3.1.0 | 20210819
+www.leli.asia
+E123995
+LKS-181P_V3.1.0_20200806
 
 #### UART or ICSP-Port
 | Description | Pin | Pin | Description |
