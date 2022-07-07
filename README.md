@@ -50,10 +50,13 @@ I removed the plastic from the board.
 #### MCU
 ![Schematic](Documentation/2022-07-07_Control-Panel_Front_MC.JPG)
 
-- ??511C??
+- ??511C?? > Nuvoton NuMicro ML51TC0AE
 - 043
 - CC 2?27B1
 - ??-ZV
+
+https://www.nuvoton.com/products/microcontrollers/8bit-8051-mcus/low-power-ml51-series/ml51tc0ae/
+
 
 #### UART or ICSP-Port
 | Description | Pin | Pin | Description |
