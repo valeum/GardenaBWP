@@ -39,6 +39,7 @@ HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 - www.leli.asia
 - E123995
 - LKS-181P_V3.1.0_20200806
+- A109742 2021 04 12
 
 ![Schematic](Documentation/2022-07-07_Control-Panel_Front_MC.JPG)
 
