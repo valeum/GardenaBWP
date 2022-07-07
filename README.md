@@ -62,14 +62,14 @@ I removed the plastic from the board.
 | VCC | 3 | 4 | DAT |
 | RST | 5 | 6 | CLK |
 
-#### Logic Analyzer
+#### Logic Analyzer: TX
 ![OLS](Documentation/2022-04-24_la-1.png)
 ![OLS](Documentation/2022-04-24_la-2.png)
 ![OLS](Documentation/2022-04-24_la-3.png)
 
 Baudrate: 9600
 
-#### Recived Data
+#### Recived Data: TX
 
 **RAW**
 FE323B553A30302E30303B493A30302E30303B54413A3030302E303B4572723A30303B534D4F3A3032333B4254523A3030306B303B53564E3A30332E31303B54533A3030302E303B42543A305F303B41493A3030303030323130303B18FD
