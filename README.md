@@ -19,8 +19,8 @@
 | Description | Pin |
 | --- | --- |
 | Plus (+) | 1 |
-| ~~Data?~~ NTC or ID | 2 |
-| ~~Data?~~ NTC or ID | 3 |
+| NTC or ID | 2 |
+| NTC or ID | 3 |
 | Minus (-) | 4 |
 
 
@@ -52,7 +52,7 @@ HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 | Description | Pin | Pin | Description |
 | --- | --- | --- | --- |
 | TX | 1 | 2 | GND |
-| ~~RX~~ VCC | 3 | 4 | DAT |
+| VCC | 3 | 4 | DAT |
 | RST | 5 | 6 | CLK |
 
 #### Logic Analyzer
