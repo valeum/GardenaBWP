@@ -55,7 +55,7 @@ Nuvoton NuMicro ML51TC0AE
 - https://www.nuvoton.com/products/microcontrollers/8bit-8051-mcus/low-power-ml51-series/ml51tc0ae/
 - https://www.nuvoton.com/export/resource-files/DS_ML51_ML54_ML56_Series_EN_Rev2.02.pdf
 
-#### UART or ICSP-Port
+#### Nuvoton NU-Link + TX
 | Description | Pin | Pin | Description |
 | --- | --- | --- | --- |
 | TX | 1 | 2 | GND |
@@ -67,7 +67,7 @@ Nuvoton NuMicro ML51TC0AE
 ![OLS](Documentation/2022-04-24_la-2.png)
 ![OLS](Documentation/2022-04-24_la-3.png)
 
-Baudrate: 9600
+Baudrate: 9600 8N1
 
 #### Recived Data: TX
 
