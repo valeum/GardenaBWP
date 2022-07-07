@@ -29,6 +29,9 @@
 
 ![Schematic](Documentation/2022-04-25_Schematic_v1.png)
 
+![Schematic](Documentation/2022-07-07_Control-Panel_Front_small.jpg)
+![Schematic](Documentation/2022-07-07_Control-Panel_Back_small.jpg)
+
 Label Description:
 HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 
