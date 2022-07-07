@@ -35,6 +35,7 @@ HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 
 ![Schematic](Documentation/2022-04-25_Schematic_v1.png)
 
+#### PCB
 I removed the plastic from the board.
 
 ![Schematic](Documentation/2022-07-07_Control-Panel_Front_small.jpg)
@@ -46,6 +47,7 @@ I removed the plastic from the board.
 - LKS-181P_V3.1.0_20200806
 - A109742 2021 04 12
 
+#### MCU
 ![Schematic](Documentation/2022-07-07_Control-Panel_Front_MC.JPG)
 
 - ??511C??
