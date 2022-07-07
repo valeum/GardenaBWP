@@ -20,8 +20,8 @@ I have a garden and would like to water it automatically with rain. For this I b
 | Description | Pin |
 | --- | --- |
 | Plus (+) | 1 |
-| NTC or ID | 2 |
-| NTC or ID | 3 |
+| NTC | 2 |
+| ID | 3 |
 | Minus (-) | 4 |
 
 
