@@ -50,10 +50,7 @@ I removed the plastic from the board.
 #### MCU
 ![Schematic](Documentation/2022-07-07_Control-Panel_Front_MC.JPG)
 
-- ??511C?? > Nuvoton NuMicro ML51TC0AE
-- 043
-- CC 2?27B1
-- ??-ZV
+Nuvoton NuMicro ML51TC0AE
 
 https://www.nuvoton.com/products/microcontrollers/8bit-8051-mcus/low-power-ml51-series/ml51tc0ae/
 https://www.nuvoton.com/export/resource-files/DS_ML51_ML54_ML56_Series_EN_Rev2.02.pdf
