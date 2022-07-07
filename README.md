@@ -42,6 +42,11 @@ HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 
 ![Schematic](Documentation/2022-07-07_Control-Panel_Front_MC.JPG)
 
+- ??511C??
+- 043
+- CC 2?27B1
+- ??-ZV
+
 #### UART or ICSP-Port
 | Description | Pin | Pin | Description |
 | --- | --- | --- | --- |
