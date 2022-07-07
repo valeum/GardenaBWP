@@ -62,6 +62,8 @@ Nuvoton NuMicro ML51TC0AE
 | VCC | 3 | 4 | DAT |
 | RST | 5 | 6 | CLK |
 
+- https://www.nuvoton.com/export/resource-files/UM_Nuvoton_Nu-Link_Debug_Adapter_EN_Rev1.01.pdf
+
 #### Logic Analyzer: TX
 ![OLS](Documentation/2022-04-24_la-1.png)
 ![OLS](Documentation/2022-04-24_la-2.png)
