@@ -33,11 +33,14 @@ HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 ![Schematic](Documentation/2022-04-25_Schematic_v1.png)
 
 ![Schematic](Documentation/2022-07-07_Control-Panel_Front_small.jpg)
+
 ![Schematic](Documentation/2022-07-07_Control-Panel_Back_small.jpg)
 
 - www.leli.asia
 - E123995
 - LKS-181P_V3.1.0_20200806
+
+![Schematic](Documentation/2022-07-07_Control-Panel_Front_MC.JPG)
 
 #### UART or ICSP-Port
 | Description | Pin | Pin | Description |
