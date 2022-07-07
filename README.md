@@ -26,6 +26,7 @@
 
 ### Control Panel
 ![Control Panel Back](Documentation/2022-04-25_Control-Panel_Back.png)
+
 Label Description:
 HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 
