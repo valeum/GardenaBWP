@@ -1,4 +1,5 @@
 # GardenaBWP
+I have a garden and would like to water it automatically with rain. For this I bought a «Gardena Battery Rain Water Tank Pump 2000/2» and would like to control via an ESP microcontroller.
 
 **Gardena Battery Rain Water Tank Pump 2000/2 18V P4A** - Article No. 14602
 - Website: https://www.gardena.com/int/products/lawn-care/grass-trimmers/system-battery-p4a-pba-18v-45/970508501/
@@ -25,6 +26,7 @@
 
 
 ### Control Panel
+After opening the control panel, I found that the board is molded in black plastic, but there is an interface with 6 ports.
 ![Control Panel Back](Documentation/2022-04-25_Control-Panel_Back.png)
 
 Label Description:
@@ -32,6 +34,7 @@ HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 
 ![Schematic](Documentation/2022-04-25_Schematic_v1.png)
 
+After I removed the plastic from the board.
 ![Schematic](Documentation/2022-07-07_Control-Panel_Front_small.jpg)
 
 ![Schematic](Documentation/2022-07-07_Control-Panel_Back_small.jpg)
