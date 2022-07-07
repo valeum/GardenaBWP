@@ -33,7 +33,7 @@ After opening the control panel, I found that the board is molded in black plast
 Label Description:
 HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 
-![Schematic](Documentation/2022-04-25_Schematic_v1.png)
+![Schematic](Documentation/2022-04-25_Schematic_v2.png)
 
 #### PCB
 I removed the plastic from the board.
