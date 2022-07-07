@@ -26,7 +26,8 @@ I have a garden and would like to water it automatically with rain. For this I b
 
 
 ### Control Panel
-After opening the control panel, I found that the board is molded in black plastic, but there is an interface with 6 ports.
+After opening the control panel, I found that the board is molded in black plastic.
+
 ![Control Panel Back](Documentation/2022-04-25_Control-Panel_Back.png)
 
 Label Description:
@@ -34,7 +35,8 @@ HW: 3.1.4A3 | SW: 3.1.0 | 20210819
 
 ![Schematic](Documentation/2022-04-25_Schematic_v1.png)
 
-After I removed the plastic from the board.
+I removed the plastic from the board.
+
 ![Schematic](Documentation/2022-07-07_Control-Panel_Front_small.jpg)
 
 ![Schematic](Documentation/2022-07-07_Control-Panel_Back_small.jpg)
