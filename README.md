@@ -142,3 +142,6 @@ FE323B553A32302E34303B493A30302E30303B54413A3032352E343B4572723A30303B534D4F3A30
 
 **Battery Hack Sheet**
 - https://docs.google.com/spreadsheets/d/1y2jpoUwTOCbt6W3V7BTANON0qFRX7MPgF3T8NVuv8oo/edit#gid=698376076
+
+**STACKOVERFLOW**
+- https://electronics.stackexchange.com/questions/617385/gardena-battery-rain-water-tank-pump-2000-2-uart-interface
