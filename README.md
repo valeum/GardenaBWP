@@ -51,7 +51,7 @@ I removed the plastic from the board.
 ![Schematic](Documentation/2022-07-07_Control-Panel_Front_MC.JPG)
 
 - https://www.nuvoton.com/products/microcontrollers/8bit-8051-mcus/low-power-ml51-series/ml51tc0ae/
-- https://www.nuvoton.com/export/resource-files/DS_ML51_ML54_ML56_Series_EN_Rev2.02.pdf or ([Datasheet](Documentation/DS_ML51_ML54_ML56_Series_EN_Rev2.02.pdf))
+- https://www.nuvoton.com/export/resource-files/DS_ML51_ML54_ML56_Series_EN_Rev2.02.pdf or [Datasheet](Documentation/DS_ML51_ML54_ML56_Series_EN_Rev2.02.pdf)
 
 #### 6-Pin Header
 Nuvoton NU-Link + TX
