@@ -1,4 +1,7 @@
 # GardenaBWP
+I started to reverse engineering the Gardena Battery Rain Water Tank Pump 2000/2 in 2022. Unfortunately, I found out that the microcontroller cannot be read out. Therefore, I have temporarily suspended the project.
+
+
 I have a garden and would like to water it automatically with rain. For this I bought a «Gardena Battery Rain Water Tank Pump 2000/2» and would like to control via an ESP microcontroller.
 
 **Gardena Battery Rain Water Tank Pump 2000/2 18V P4A** - Article No. 14602
